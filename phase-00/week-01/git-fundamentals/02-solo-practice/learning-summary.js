@@ -1,6 +1,6 @@
 const phaseName = "Phase 0";
-const completedSessions = 2;
-const nextTopic = "Git fundamentals";
+const completedSessions = 3;
+const nextTopic = "Git branching and merging";
 const currentWeek = 1;
 
 console.log(`Phase name: ${phaseName}`);

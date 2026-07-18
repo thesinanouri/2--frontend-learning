@@ -1,7 +1,7 @@
 const prTitle = "Add pull request review summary";
 const baseBranch = "main";
 const compareBranch = "practice/review-summary";
-const reviewResult = "Ready for review";
+const result = "Ready for review";
 
 console.log(`Pull request title: ${prTitle}`);
 console.log(`Base branch: ${baseBranch}`);

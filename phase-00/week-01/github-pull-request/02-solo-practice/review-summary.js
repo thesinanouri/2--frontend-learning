@@ -6,4 +6,4 @@ const result = "Ready for review";
 console.log(`Pull request title: ${prTitle}`);
 console.log(`Base branch: ${baseBranch}`);
 console.log(`Compare branch: ${compareBranch}`);
-console.log(`Review result: ${reviewResult}`);
+console.log(`Review result: ${result}`);

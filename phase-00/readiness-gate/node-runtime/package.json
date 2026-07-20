@@ -4,7 +4,8 @@
   "description": "",
   "main": "report.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node report.js",
+    "check": "node --check report.js"
   },
   "keywords": [],
   "author": "",

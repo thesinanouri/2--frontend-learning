@@ -1,6 +1,6 @@
 const phaseNumber = "phase-00";
 const sessionName = "readiness-gate";
-const progress = "ready for review";
+const progress = "ready for final review";
 
 console.log(`Phase: ${phaseNumber}`);
 console.log(`Session: ${sessionName}`);

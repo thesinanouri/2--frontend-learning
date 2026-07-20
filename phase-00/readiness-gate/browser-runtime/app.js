@@ -12,3 +12,4 @@ console.log(`Plan: ${planName}`);
 console.log(`Active Seats: ${activeSeats}`);
 console.log(`Price per Seat: $${pricePerSeat}`);
 console.log(`Total Price: $${totalPrice}`);
+console.log(document.title);
